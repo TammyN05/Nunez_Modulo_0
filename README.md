@@ -1,4 +1,4 @@
-# Tammy_Repartido_0
+# Nuñez_Modulo_0
 **Actividad Nº 6:** <br> 
 <p> Para el maquetado individual cree el sitio web de una pagina de reservas llamada ToBe Houses. Se trata de un sitio web en donde una persona que tiene propiedades en alquiler las junta todas en un mismo sitio, para brindarle a la persona que alquile una experiencia personalizada. A diferencia de AIRBNB que tienes propiedades de todo tipo, esta web tambien sirve como una especie de filtro para mostrar los apartamentos del dueño. Para el diseño elegi algo elegante y sofisticado para brindarle a la persona que alquile un lugar para sentirse como en casa. Que basicamente es el objetivo de la web, lograr mediante el diseño y el copy una experiencia para quen el inquilino se sienta como en casa. <p/> <br> 
 Actividad Nº 7: 
