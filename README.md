@@ -1,8 +1,12 @@
 # Tammy_Repartido_0
-**Actividad Nº6:** <br> 
+**Actividad Nº 6:** <br> 
 <p> Para el maquetado individual cree el sitio web de una pagina de reservas llamada ToBe Houses. Se trata de un sitio web en donde una persona que tiene propiedades en alquiler las junta todas en un mismo sitio, para brindarle a la persona que alquile una experiencia personalizada. A diferencia de AIRBNB que tienes propiedades de todo tipo, esta web tambien sirve como una especie de filtro para mostrar los apartamentos del dueño. Para el diseño elegi algo elegante y sofisticado para brindarle a la persona que alquile un lugar para sentirse como en casa. Que basicamente es el objetivo de la web, lograr mediante el diseño y el copy una experiencia para quen el inquilino se sienta como en casa. <p/> <br> 
-Actividad Nº7: 
+Actividad Nº 7: 
 <p> Para esta actividad grupal de maquetado de E-Commerce, contruimos una tienda de venta de cafes, conta de una pagina de inicio en donde se encuentra la cabecera con el logo y un menú, luego tenemos el primer banner con un copy y un llamado a la accion para ir a la tienda. Debajo tenemos carrusel de imagenes que vendrian a ser marcas o partners de la tienda. Debajo tenemos productos destacados o los mas populares, con foto, nombre y precio, y justo debajo un boton para añadir al carrito. Continuando tenemos una seccion en donde estan puntos importantes sobre el envio y los tiempos de entrega despues de la compra. Eso esta seguido por una galeria de imagenes con diferentes informaciones sobre los cafes. Y por ultimo testimonios de los compradores. El footer contiene las redes sociales y se repite en todas las paginas. <p/> 
 En la pagina de la tienda, esta conformada por un banner y debajo una barra lateral con distintos filtros y a la derecha todos los productos. Debajo una opcion para dejar un comentario. <br>
 En la pagina del producto individual se encuentra el producto en una imagen grande y debajo sus variaciones, a la derecha tenemos el nombre, el precio y un boton para añadir al carrito, debajo hay informacion extra. Continuando las secciones se encuentra una descripcion del mismo y productos relacionados. <br>
 En la pagina del carrito se encuentra el resumen de compra de los productos añadidos, tambien aparee una opcion para colocar un cupon, y a la derecha el subtotal del pedido. Debajo tambien hay productos relacionados y para dejar un comentario.
+
+Actividad Nº 13: Aqui estan los links a los distintos repositorios. <br>
+Repositorio de Git https://github.com/TammyN05/Pruebas_Tammy <br>
+Repositorio de Bitbucket https://bitbucket.org/tammyn05/primer_repositorio_tammyn05/src/principal/
